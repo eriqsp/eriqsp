@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello! 👋
 
-My name is Erick and I am currently pursuing the data science career path.
+I'm Erick. The projects here are mainly data science focused, but it is not limited by it.
 
 I like to build things that are useful (or at least interesting) to me, and could be useful to others as well.
 
