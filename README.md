@@ -2,7 +2,7 @@
 
 My name is Erick and I am currently pursuing the data science career path.
 
-I like to build things that are useful to me, and could be useful to others as well.
+I like to build things that are useful (or at least interesting) to me, and could be useful to others as well.
 
 My main tech stack contains Python, SQL and HTML. I also have some experience using Docker, n8n and AzureDevOps.
 
