@@ -1,8 +1,6 @@
 ## Hello! 👋
 
-I'm Erick. The projects here are mainly data science focused, but it is not limited by it.
-
-I like to build things that are useful (or at least interesting) to me, and could be useful to others as well.
+I'm Erick and I like to build things that are useful (or at least interesting) to me, and could be useful to others as well.
 
 My main tech stack contains Python, SQL and HTML. I also have some experience using Docker, n8n and AzureDevOps.
 
