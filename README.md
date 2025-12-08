@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I'm Erick and I like to build things that are useful (or at least interesting) to me, and could be useful to others as well.
+I'm Erick and I like to build things that are interesting to me, and could be to others as well.
 
 My main tech stack contains Python, SQL and HTML. I also have some experience using Docker, n8n and AzureDevOps.
 
