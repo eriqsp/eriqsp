@@ -1,12 +1,10 @@
-## Hello! 👋
+## Welcome :)
 
 I'm Erick and I like to build things that are interesting to me, and could be to others as well.
 
-My main tech stack contains Python, SQL and HTML. I also have some experience using Docker, n8n and AzureDevOps.
+Most projects here are data science related - collecting data, cleaning, transform and model. My favorite one is the [Counter-Strike Player Clustering](https://github.com/eriqsp/counter-strike-analysis).
 
-I've built some projects here, my favorite one being the [Counter-Strike Player Clustering](https://github.com/eriqsp/counter-strike-analysis).
-
-At the moment I am working on the project [Anime Recommender System](https://github.com/eriqsp/anime-recommender). It gives *anime recommendations* using the content-based filtering approach and TensorFlow to build the embeddings.
+You also can find me on [LinkedIn](https://www.linkedin.com/in/erick-sp/).
 
 <!--
 **eriqsp/eriqsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
