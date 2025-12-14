@@ -2,7 +2,7 @@
 
 I'm Erick and I like to build things that are interesting to me, and could be to others as well.
 
-Most projects here are data science related - collecting data, cleaning, transform and model. My favorite one is the [Counter-Strike Player Clustering](https://github.com/eriqsp/counter-strike-analysis).
+I have some projects here that are data science related - collecting, cleaning, transforming and training data. My favorite one is the [Counter-Strike Player Clustering](https://github.com/eriqsp/counter-strike-analysis).
 
 You also can find me on [LinkedIn](https://www.linkedin.com/in/erick-sp/).
 
